@@ -1,0 +1,12 @@
+<title> Hello World</title>
+<intro> I am going to tell you about myself </intro>
+  <degree level="Master">
+    <MD> informantion technology</MD>
+    <UG> game design </UG>
+  </degree>
+ <hobby> Playing music </hobby>
+ <passion intrest="Video game">
+  <company> Nintendo </company>
+  <franchaise> Super Mario Bros. </franchaise>
+  <favorite character> Luigi </favorite character>
+</passion>
